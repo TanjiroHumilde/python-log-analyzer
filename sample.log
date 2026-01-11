@@ -1,0 +1,6 @@
+2026-01-01 10:12:45 INFO System started successfully
+2026-01-01 10:13:10 WARNING Low disk space detected
+2026-01-01 10:14:02 ERROR Failed to connect to database
+2026-01-01 10:15:33 INFO User logged in
+2026-01-01 10:16:01 FAILED Backup process failed
+2026-01-01 10:17:45 ERROR Timeout while accessing service
